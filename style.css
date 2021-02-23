@@ -3,10 +3,10 @@ body{
 	font-family: Calibri;
 	background: url(Images/Islandia2.jpg) no-repeat center center fixed;
 	background-size: cover;
-	/*-moz-background-size: cover;
+	-moz-background-size: cover;
  	-webkit-background-size: cover;
  	-ms-background-size: cover;
- 	-o-background-size: cover;*/
+ 	-o-background-size: cover;
 }
 
 

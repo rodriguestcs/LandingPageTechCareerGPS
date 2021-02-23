@@ -9,7 +9,7 @@ body{
  	-o-background-size: cover;
 }
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-height: 470px) {
     h1{
       	padding-top: 25%;  
    }

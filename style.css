@@ -10,6 +10,13 @@ body{
 }
 
 
+@media only screen and (max-width: 450px){
+	h1{
+		font-size: 70px;
+		padding-top: 25%;
+	}
+}
+
 h1{
 	font-size: 70px;
 	text-shadow: 3px 3px 3px gray;

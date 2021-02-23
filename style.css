@@ -9,10 +9,10 @@ body{
  	-o-background-size: cover;
 }
 
-@media screen and (device-width: 480px) and (device-height: 800px) {
+@media only screen and (device-width: 480px) and (device-height: 800px) {
     h1{
 	    /*text-align: center;*/
-	    padding-top: 25%;
+	    padding-top: 10%;
    }
 }
 

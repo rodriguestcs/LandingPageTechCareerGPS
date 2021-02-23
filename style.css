@@ -12,10 +12,10 @@ body{
 h1{
 	font-size: 70px;
 	text-shadow: 3px 3px 3px gray;
-	margin-top: auto;
+	/*
 	padding-top: 250px;
 	padding-left: 200px;
-	margin-bottom: 20px;
+	margin-bottom: 20px;*/
 }
 
 p{

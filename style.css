@@ -11,7 +11,8 @@ body{
 
 @media screen and (device-width: 480px) and (device-height: 800px) {
     h1{
-      	padding-top: 25%;
+	    text-align: center;
+	    padding-top: 25%;
    }
 }
 

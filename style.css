@@ -9,7 +9,7 @@ body{
  	-o-background-size: cover;
 }
 
-@media screen{
+@media screen and (device-width: 480px) and (device-height: 800px) {
     h1{
       	padding-top: 25%;
    }

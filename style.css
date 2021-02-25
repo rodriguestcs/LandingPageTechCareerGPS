@@ -9,6 +9,11 @@ body{
  	-o-background-size: cover;
 }
 
+@media screen and (max-width: 500px) {
+  	div.centertext {
+		padding-top:400px;
+  	}
+}
 
 h1{
 	font-size: 70px;

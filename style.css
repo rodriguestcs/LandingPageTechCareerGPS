@@ -34,7 +34,8 @@ i:hover{
 }
 
 @media screen and (max-width:400px){
-	h1{
+	h1{	
+		colour: yellow;
 		padding-top: 40%;
 	}
 }

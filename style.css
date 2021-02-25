@@ -19,15 +19,6 @@ h1{
 
 }
 
-/*Mobile*/
-@media only screen and (max-width: 950px) {
-  	h1{
-		padding-top: 400px;
- 	}
-}
-
-
-
 p{
 	font-size: 25px;
 	padding-left: 200px;

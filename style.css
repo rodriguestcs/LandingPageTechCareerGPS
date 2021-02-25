@@ -35,7 +35,7 @@ i:hover{
 
 @media only screen and (max-device-width: 500px) {
 	h1{	
-		padding-top: 500px;
-		color:orange;
+		padding-top: 575px;
+		color:slateblue;
 	}
 }

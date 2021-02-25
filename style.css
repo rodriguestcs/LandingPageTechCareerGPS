@@ -21,8 +21,8 @@ h1{
 
 /*Mobile*/
 @media only screen and (max-width: 950px) {
-  	body{
-		vertical-align: middle;
+  	h1{
+		padding-top: 400px;
  	}
 }
 
